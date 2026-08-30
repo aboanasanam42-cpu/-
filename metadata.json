@@ -2,5 +2,7 @@
   "name": "المحاسب الطبي الشامل",
   "description": "تطبيق المحاسب الطبي الشامل لإدارة الاستقبال، الطبيب، المختبر، الأشعة، الصيدلية، المصروفات والخرجيات، الفواتير، التقارير والرسائل التلقائية",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
